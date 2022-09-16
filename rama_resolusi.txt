@@ -3,3 +3,5 @@ RAMA RESOLUSI
 - mempelajari coding
 - mempelajari html
 - mempelajari css
+- mempelajari javascript
+- belajar membuat webiste
